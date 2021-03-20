@@ -1,0 +1,2 @@
+# RestaurantManager
+1. моделирайте всеки един от бизнес обектите под форма на класове(купуване на стоки от доставчици, продаване на храни  и напитки на клиенти, издаване на касови бележки и изплащане на фактури)  2.наследяване, абстракция, капсулиране и полиморфизъм  3.Методи createRestaurant - moje bi klas  printInvoices - metod printInvoice - metod  meal class  serveMeal - metod buyProduct - metod v meal  main  printRestaurantInfo - metod  changePrinter - metod
