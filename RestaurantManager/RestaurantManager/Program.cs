@@ -10,6 +10,8 @@ namespace RestaurantManager
     {
         static void Main(string[] args)
         {
+            Restaurant newRestaurant = new Restaurant();
+            Console.WriteLine(newRestaurant);
 
         }
     }

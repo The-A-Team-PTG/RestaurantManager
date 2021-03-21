@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\RestaurantManager"
+    "\\RestaurantManager",
+    "\\RestaurantManager\\Properties"
   ],
   "SelectedNode": "\\RestaurantManager\\Program.cs",
   "PreviewInSolutionExplorer": false
