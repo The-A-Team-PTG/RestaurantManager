@@ -10,15 +10,10 @@ namespace RestaurantManager
     {
         static void Main(string[] args)
         {
-            serveMeal firstmeal = new serveMeal();
-            Console.WriteLine(firstmeal);
+            RestaurantManager soup = new RestaurantManager();
+            soup.Meal("soup", "patatos", 2, "carots", 4, "salt", 1, "2021-02-16");
 
-          
-            RestaurantManager newmeal = new RestaurantManager();
-            newmeal.Meal();
-            Console.WriteLine(newmeal);
-
-            Console.Read();
+            Console.ReadLine();
         }
     }
 }

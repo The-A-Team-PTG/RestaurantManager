@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{788CFE8B-E33B-40AC-9D1F-5373E690FC95}</ProjectGuid>
+    <ProjectGuid>{D7401B64-51DA-4875-AF74-BD6B39E7E651}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>RestaurantManager</RootNamespace>
     <AssemblyName>RestaurantManager</AssemblyName>
@@ -46,7 +46,6 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RestaurantManager.cs" />
-    <Compile Include="serveMeal.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
