@@ -2,7 +2,7 @@
 
 public class Class1
 {
-    public Restaurant()
+    public Restaurant() : RestaurantManger
     {
 
      private string name;
